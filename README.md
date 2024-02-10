@@ -1,3 +1,10 @@
+# Loja Online
+
+Esta é uma representação do processo de compra em uma loja online, desde o início até a finalização do pedido.
+
+## Fluxograma
+
+```mermaid
 graph TD;
     A(Início) --> B("Usuário (Cliente)");
     B --> C{"Navegar pela Loja Online?"};
